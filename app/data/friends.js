@@ -1,5 +1,7 @@
 var friends = [
+  // creating an array called friends that contains all the user data objects submitted by the application as well as hard coded inputs
   {
+    // key value pairs for one user
     name: "Sam",
     photo: "",
     scores: [
@@ -97,5 +99,6 @@ var friends = [
   }
 ];
 
+// exporting the friends array for use on other pages
 module.exports = friends;
 
