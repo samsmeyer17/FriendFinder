@@ -9,4 +9,17 @@ This application is essentially a dating app for friends. It really only has the
   - It matches them to someone who shares similar personality traits
 
 ## How to use:
-- Go to 
+- Go to https://peaceful-forest-25844.herokuapp.com/
+- Click Start Survey button
+- Fill out survey
+- Submit
+
+## Technologies Used:
+- Express
+- HTML
+- Javascript
+- Node.js
+
+**Comments**
+Link to [heroku](https://peaceful-forest-25844.herokuapp.com/)
+Link to [Updated Portfolio](https://samsmeyer17.github.io/Responsive-Portfolio/)
